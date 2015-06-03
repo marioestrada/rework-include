@@ -1,0 +1,22 @@
+{
+  "name": "rework-include",
+  "version": "0.1.0",
+  "description": "Rework plugin for inlining CSS mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marioestrada/rework-include/"
+  },
+  "keywords": [
+    "rework",
+    "css",
+    "mixins",
+    "rework",
+    "include"
+  ],
+  "author": "Mario Estrada",
+  "license": "MIT"
+}
